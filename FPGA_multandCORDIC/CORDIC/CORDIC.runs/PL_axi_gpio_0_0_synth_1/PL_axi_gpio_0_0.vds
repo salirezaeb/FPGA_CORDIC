@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Dec 16 11:34:08 2023
+# Process ID: 8624
+# Current directory: G:/term5/vivado projects/CORDIC/CORDIC.runs/PL_axi_gpio_0_0_synth_1
+# Command line: vivado.exe -log PL_axi_gpio_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source PL_axi_gpio_0_0.tcl
+# Log file: G:/term5/vivado projects/CORDIC/CORDIC.runs/PL_axi_gpio_0_0_synth_1/PL_axi_gpio_0_0.vds
+# Journal file: G:/term5/vivado projects/CORDIC/CORDIC.runs/PL_axi_gpio_0_0_synth_1\vivado.jou
+# Running On: DESKTOP-BB96HCJ, OS: Windows, CPU Frequency: 2400 MHz, CPU Physical cores: 2, Host memory: 8465 MB
+#-----------------------------------------------------------
+source PL_axi_gpio_0_0.tcl -notrace
+create_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:27 . Memory (MB): peak = 549.789 ; gain = 183.145
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: PL_axi_gpio_0_0
+INFO: [IP_Flow 19-6922] IPCACHE: Exporting cached entry 64959a2292ec75b9 to dir: G:/term5/vivado projects/CORDIC/CORDIC.runs/PL_axi_gpio_0_0_synth_1
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file g:/term5/vivado projects/CORDIC/CORDIC.cache/ip/2023.2/6/4/64959a2292ec75b9/PL_axi_gpio_0_0.dcp to G:/term5/vivado projects/CORDIC/CORDIC.runs/PL_axi_gpio_0_0_synth_1/PL_axi_gpio_0_0.dcp.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file g:/term5/vivado projects/CORDIC/CORDIC.cache/ip/2023.2/6/4/64959a2292ec75b9/PL_axi_gpio_0_0_sim_netlist.v to G:/term5/vivado projects/CORDIC/CORDIC.runs/PL_axi_gpio_0_0_synth_1/PL_axi_gpio_0_0_sim_netlist.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file g:/term5/vivado projects/CORDIC/CORDIC.cache/ip/2023.2/6/4/64959a2292ec75b9/PL_axi_gpio_0_0_sim_netlist.vhdl to G:/term5/vivado projects/CORDIC/CORDIC.runs/PL_axi_gpio_0_0_synth_1/PL_axi_gpio_0_0_sim_netlist.vhdl.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file g:/term5/vivado projects/CORDIC/CORDIC.cache/ip/2023.2/6/4/64959a2292ec75b9/PL_axi_gpio_0_0_stub.v to G:/term5/vivado projects/CORDIC/CORDIC.runs/PL_axi_gpio_0_0_synth_1/PL_axi_gpio_0_0_stub.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file g:/term5/vivado projects/CORDIC/CORDIC.cache/ip/2023.2/6/4/64959a2292ec75b9/PL_axi_gpio_0_0_stub.vhdl to G:/term5/vivado projects/CORDIC/CORDIC.runs/PL_axi_gpio_0_0_synth_1/PL_axi_gpio_0_0_stub.vhdl.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP PL_axi_gpio_0_0, cache-ID = 64959a2292ec75b9.
+INFO: [Common 17-206] Exiting Vivado at Sat Dec 16 11:35:31 2023...
